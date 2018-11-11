@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5473308e-2b7d-459b-b7cd-9e4abec10f34" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestJava.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestJava/com/testcrawler4j/MyCrawler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/com/testcrawler4j/MyCrawler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestJava/com/testcrawler4j/app.config" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/com/testcrawler4j/app.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/testcrawler4j/MyCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testcrawler4j/MyCrawler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/testcrawler4j/app.config" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testcrawler4j/app.config" afterDir="false" />
-    </list>
+    <list default="true" id="5473308e-2b7d-459b-b7cd-9e4abec10f34" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,13 +58,13 @@
         <counts>
           <entry key="class" value="3" />
           <entry key="config" value="51" />
-          <entry key="java" value="896" />
+          <entry key="java" value="897" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="896" />
+          <entry key="JAVA" value="897" />
           <entry key="PLAIN_TEXT" value="51" />
         </counts>
       </usages-collector>
@@ -82,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testcrawler4j/CrawlerMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="39" column="30" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="30" />
+            <state relative-caret-position="254">
+              <caret line="37" column="90" lean-forward="true" selection-start-line="37" selection-start-column="90" selection-end-line="37" selection-end-column="90" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out/production/TestJava/com/testcrawler4j/CrawlerMain.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -130,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/testcrawler4j/app.config">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="54">
+              <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -148,8 +141,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/testcrawler4j/MyCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="22" column="90" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+            <state relative-caret-position="67">
+              <caret line="32" column="50" lean-forward="true" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -205,8 +198,8 @@
         <option value="$PROJECT_DIR$/lib/slf4j-1.7.25/slf4j-log4j12/src/main/resources/META-INF/MANIFEST.MF" />
         <option value="$PROJECT_DIR$/out/production/TestJava/com/testcrawler4j/app.config" />
         <option value="$PROJECT_DIR$/src/com/testcrawler4j/app.config" />
-        <option value="$PROJECT_DIR$/src/com/testcrawler4j/CrawlerMain.java" />
         <option value="$PROJECT_DIR$/src/com/testcrawler4j/MyCrawler.java" />
+        <option value="$PROJECT_DIR$/src/com/testcrawler4j/CrawlerMain.java" />
       </list>
     </option>
   </component>
@@ -296,7 +289,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541949719731" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541949812407" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/apache-logging-log4j.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -357,12 +350,12 @@
       <workItem from="1540177210841" duration="3540000" />
       <workItem from="1540437307762" duration="6434000" />
       <workItem from="1540528661846" duration="666000" />
-      <workItem from="1541948586656" duration="916000" />
+      <workItem from="1541948586656" duration="1218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34245000" />
+    <option name="totallyTimeSpent" value="34547000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,9 +368,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="-11" width="1309" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20063442" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20063442" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -386,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36335403" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35093167" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -523,17 +515,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/TestJava/com/testcrawler4j/CrawlerMain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/TestJava/com/testcrawler4j/app.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/TestJava/com/testcrawler4j/CrawlerMain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -546,15 +538,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testcrawler4j/app.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="54">
+          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testcrawler4j/CrawlerMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="254">
+          <caret line="37" column="90" lean-forward="true" selection-start-line="37" selection-start-column="90" selection-end-line="37" selection-end-column="90" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -563,8 +555,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/testcrawler4j/MyCrawler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="22" column="90" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+        <state relative-caret-position="67">
+          <caret line="32" column="50" lean-forward="true" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
